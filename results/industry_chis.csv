@@ -1,0 +1,25 @@
+depen_var,factor,corr,sig
+resi_all_abs,duration,9.579 ,2.25E-02
+resi_all_abs,num_positive,8.182 ,4.24E-02
+resi_all_abs,season,8.817 ,3.18E-02
+resi_all_abs,gdp,1.603 ,6.59E-01
+resi_all_abs,gdp-2,1.243 ,7.43E-01
+resi_all_abs,gdp-3,2.088 ,5.54E-01
+resi_all_abs,pop,0.746 ,8.62E-01
+resi_all_abs,gdp_pop,1.603 ,6.59E-01
+resi_all_abs,pop_density,1.603 ,6.59E-01
+resi_all_abs,location geographic,0.966 ,8.09E-01
+resi_all_abs,location economic,1.243 ,7.43E-01
+resi_all_abs,num_scale,10.468 ,1.50E-02
+resi_all_abs,cement_prod,0.945 ,8.15E-01
+resi_all_abs,steel_prod,2.733 ,4.35E-01
+resi_all_abs,metal_value,7.073 ,6.96E-02
+resi_all_abs,paper_value,4.132 ,2.48E-01
+resi_all_abs,fuel_value,2.527 ,4.70E-01
+resi_all_abs,chemi_value,3.543 ,3.15E-01
+resi_all_abs,energy_consump,4.439 ,2.18E-01
+resi_all_abs,electri_consump_indus,5.051 ,1.68E-01
+resi_all_abs,power_resi_all_abs,6.323 ,9.69E-02
+resi_all_abs,power_resi_in_abs,10.202 ,1.69E-02
+resi_all_abs,power_resi_after_abs,11.403 ,9.73E-03
+resi_all_abs,power_extreme,3.517 ,3.19E-01

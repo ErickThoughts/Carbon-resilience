@@ -1,0 +1,97 @@
+y,x,corr,sig
+resi_all_abs,duration,-0.052271277,0.67441651
+resi_all_abs,num_positive,-0.324290888,0.007422883
+resi_all_abs,season,-0.463617378,7.78E-05
+resi_all_abs,gdp,0.282788385,0.020410833
+resi_all_abs,gdp-2,0.263544562,0.031172662
+resi_all_abs,gdp-3,0.289376001,0.017542845
+resi_all_abs,pop,0.190441987,0.122669674
+resi_all_abs,gdp_pop,0.143849577,0.245498427
+resi_all_abs,pop_density,0.121850932,0.325957292
+resi_all_abs,location geographic,0.137969327,0.265532554
+resi_all_abs,location economic,0.319381473,0.008427678
+resi_all_abs,num_scale,0.339960906,0.00488242
+resi_all_abs,cement_prod,0.033641806,0.786956884
+resi_all_abs,steel_prod,0.194737808,0.114299409
+resi_all_abs,metal_value,0.185690919,0.132462975
+resi_all_abs,paper_value,0.330259145,0.006343903
+resi_all_abs,fuel_value,0.196071405,0.111792338
+resi_all_abs,chemi_value,0.225679915,0.066317133
+resi_all_abs,energy_consump,0.260174717,0.036341182
+resi_all_abs,electri_consump_indus,0.094648368,0.449688335
+resi_all_abs,power_resi_all_abs,0.456317849,0.000104029
+resi_all_abs,power_resi_in_abs,0.466008181,7.06E-05
+resi_all_abs,power_resi_after_abs,0.38406896,0.001333845
+resi_all_abs,power_extreme,0.313063086,0.009894294
+resi_in_abs,duration,-0.082131632,0.508777461
+resi_in_abs,num_positive,-0.321526919,0.007974828
+resi_in_abs,season,-0.291420096,0.016726236
+resi_in_abs,gdp,0.219304305,0.074573837
+resi_in_abs,gdp-2,0.202954551,0.099520329
+resi_in_abs,gdp-3,0.214493206,0.081331645
+resi_in_abs,pop,0.127015033,0.305715758
+resi_in_abs,gdp_pop,0.140889366,0.255450567
+resi_in_abs,pop_density,0.126775476,0.306636328
+resi_in_abs,location geographic,0.10831099,0.382962941
+resi_in_abs,location economic,0.33174039,0.006098486
+resi_in_abs,num_scale,0.314049036,0.009651756
+resi_in_abs,cement_prod,0.043416199,0.727199187
+resi_in_abs,steel_prod,0.189243701,0.125085934
+resi_in_abs,metal_value,0.128452374,0.300229966
+resi_in_abs,paper_value,0.282367644,0.020606846
+resi_in_abs,fuel_value,0.28292661,0.020346785
+resi_in_abs,chemi_value,0.245815591,0.044952094
+resi_in_abs,energy_consump,0.279784446,0.023994823
+resi_in_abs,electri_consump_indus,0.056191397,0.654057054
+resi_in_abs,power_resi_all_abs,0.376038954,0.001712387
+resi_in_abs,power_resi_in_abs,0.373901244,0.001828223
+resi_in_abs,power_resi_after_abs,0.303425157,0.012558416
+resi_in_abs,power_extreme,0.307864227,0.011262841
+resi_after_abs,duration,-0.139176084,0.261334022
+resi_after_abs,num_positive,-0.177676674,0.150306373
+resi_after_abs,season,-0.262986997,0.031544538
+resi_after_abs,gdp,0.17672484,0.15253911
+resi_after_abs,gdp-2,0.130290276,0.29330934
+resi_after_abs,gdp-3,0.231264492,0.059704295
+resi_after_abs,pop,0.044847484,0.718573761
+resi_after_abs,gdp_pop,0.256937256,0.035823876
+resi_after_abs,pop_density,0.199063739,0.106321298
+resi_after_abs,location geographic,0.013907107,0.911063111
+resi_after_abs,location economic,0.330297751,0.006337398
+resi_after_abs,num_scale,0.176265685,0.153624934
+resi_after_abs,cement_prod,-0.157573724,0.20284182
+resi_after_abs,steel_prod,0.032520815,0.793896693
+resi_after_abs,metal_value,0.071278853,0.566514277
+resi_after_abs,paper_value,0.265361756,0.029986062
+resi_after_abs,fuel_value,0.067565685,0.586949017
+resi_after_abs,chemi_value,0.193077723,0.117480383
+resi_after_abs,energy_consump,0.090529454,0.47326023
+resi_after_abs,electri_consump_indus,-0.043827867,0.726770899
+resi_after_abs,power_resi_all_abs,0.333127121,0.005876337
+resi_after_abs,power_resi_in_abs,0.29102229,0.016882553
+resi_after_abs,power_resi_after_abs,0.425789201,0.000327846
+resi_after_abs,power_extreme,0.274203043,0.024740087
+extreme,duration,-0.073259819,0.555750539
+extreme,num_positive,-0.309374626,0.010849274
+extreme,season,-0.501873105,1.51E-05
+extreme,gdp,0.204990784,0.096098824
+extreme,gdp-2,0.200898355,0.103070951
+extreme,gdp-3,0.201696878,0.101680563
+extreme,pop,0.127234627,0.304873476
+extreme,gdp_pop,0.083415688,0.502151382
+extreme,pop_density,0.061496237,0.62104924
+extreme,location geographic,0.110331477,0.374097475
+extreme,location economic,0.235676736,0.054866361
+extreme,num_scale,0.229046284,0.062263936
+extreme,cement_prod,0.063761615,0.608223043
+extreme,steel_prod,0.087559774,0.481074826
+extreme,metal_value,0.172770389,0.162079529
+extreme,paper_value,0.317223164,0.008905746
+extreme,fuel_value,0.078824182,0.526048603
+extreme,chemi_value,0.255910396,0.036596171
+extreme,energy_consump,0.146914472,0.2428755
+extreme,electri_consump_indus,0.021292373,0.865250651
+extreme,power_resi_all_abs,0.453268278,0.000117245
+extreme,power_resi_in_abs,0.46184162,8.35E-05
+extreme,power_resi_after_abs,0.371289747,0.001979244
+extreme,power_extreme,0.394089358,0.00096794

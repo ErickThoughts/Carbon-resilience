@@ -1,0 +1,29 @@
+depen_var,factor,chi,sig
+resi_all_abs,duration,1.044 ,7.91E-01
+resi_all_abs,num_positive,8.348 ,3.93E-02
+resi_all_abs,season,8.211 ,4.18E-02
+resi_all_abs,gdp,3.711 ,2.94E-01
+resi_all_abs,gdp-2,4.778 ,1.89E-01
+resi_all_abs,gdp-3,3.711 ,2.94E-01
+resi_all_abs,pop,2.939 ,4.01E-01
+resi_all_abs,gdp_pop,3.273 ,3.51E-01
+resi_all_abs,pop_density,2.838 ,4.17E-01
+resi_all_abs,location geographic,2.179 ,5.36E-01
+resi_all_abs,location economic,3.273 ,3.51E-01
+resi_all_abs,energy_consumption,4.019 ,2.59E-01
+resi_all_abs,energy_intensity,2.387 ,4.96E-01
+resi_all_abs,electri_consump_all,2.024 ,5.67E-01
+resi_all_abs,electri_consump_resi,2.361 ,5.01E-01
+resi_all_abs,electri_consump_service,3.309 ,3.46E-01
+resi_all_abs,electri_consump_indus,4.721 ,1.93E-01
+resi_all_abs,coal_consump,9.036 ,2.88E-02
+resi_all_abs,gas_consumption,3.579 ,3.11E-01
+resi_all_abs,oil_consumption,1.909 ,5.92E-01
+resi_all_abs,electri_produce,3.278 ,3.51E-01
+resi_all_abs,coal_produce,6.044 ,1.09E-01
+resi_all_abs,gas_produce,1.711 ,6.34E-01
+resi_all_abs,electri_clean,1.550 ,6.71E-01
+resi_all_abs,industry_resi_all_abs,4.767 ,1.90E-01
+resi_all_abs,industry_resi_in_abs,6.225 ,1.01E-01
+resi_all_abs,industry_resi_after_abs,3.048 ,3.84E-01
+resi_all_abs,industry_extreme,3.700 ,2.96E-01

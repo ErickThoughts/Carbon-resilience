@@ -1,0 +1,27 @@
+y,x,corr,sig
+resi_all_abs,num_positive,-0.324290888,0.007422883
+resi_all_abs,season,-0.463617378,7.78E-05
+resi_all_abs,location economic,0.319381473,0.008427678
+resi_all_abs,num_scale,0.339960906,0.00488242
+resi_all_abs,paper_value,0.330259145,0.006343903
+resi_all_abs,power_resi_all_abs,0.456317849,0.000104029
+resi_all_abs,power_resi_in_abs,0.466008181,7.06E-05
+resi_all_abs,power_resi_after_abs,0.38406896,0.001333845
+resi_all_abs,power_extreme,0.313063086,0.009894294
+resi_in_abs,num_positive,-0.321526919,0.007974828
+resi_in_abs,location economic,0.33174039,0.006098486
+resi_in_abs,num_scale,0.314049036,0.009651756
+resi_in_abs,power_resi_all_abs,0.376038954,0.001712387
+resi_in_abs,power_resi_in_abs,0.373901244,0.001828223
+resi_in_abs,power_resi_after_abs,0.303425157,0.012558416
+resi_in_abs,power_extreme,0.307864227,0.011262841
+resi_after_abs,location economic,0.330297751,0.006337398
+resi_after_abs,power_resi_all_abs,0.333127121,0.005876337
+resi_after_abs,power_resi_after_abs,0.425789201,0.000327846
+extreme,num_positive,-0.309374626,0.010849274
+extreme,season,-0.501873105,1.51E-05
+extreme,paper_value,0.317223164,0.008905746
+extreme,power_resi_all_abs,0.453268278,0.000117245
+extreme,power_resi_in_abs,0.46184162,8.35E-05
+extreme,power_resi_after_abs,0.371289747,0.001979244
+extreme,power_extreme,0.394089358,0.00096794
